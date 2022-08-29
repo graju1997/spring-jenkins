@@ -14,6 +14,8 @@ class SpringJenkinsPracticeApplicationTests {
 	void contextLoads() {
 		
 		log.info("Test Info Started...");
+		log.info("..............Test Info Started in contextLoads()...........");
+
 	}
 
 }
