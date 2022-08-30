@@ -15,6 +15,7 @@ class SpringJenkinsPracticeApplicationTests {
 		
 		log.info("Test Info Started...");
 		log.info("..............Test Info Started in contextLoads()...........");
+		log.info("..............Test Info Started in contextLoads() 2 to check build triggers...........");
 
 	}
 
