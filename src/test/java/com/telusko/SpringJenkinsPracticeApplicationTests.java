@@ -11,7 +11,7 @@ class SpringJenkinsPracticeApplicationTests {
 	public static Logger log=LoggerFactory.getLogger(SpringJenkinsPracticeApplicationTests.class);
 
 	@Test
-	void contextLoads() {
+	 contextLoads() {
 		
 		log.info("Test Info Started...");
 		log.info("..............Test Info Started in contextLoads()...........");
